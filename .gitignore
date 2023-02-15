@@ -3,3 +3,8 @@
 */Bin/*
 */Debug/*
 */x64/*
+*/.vs/*
+*/CMakeFiles/*
+.gitpod.yml
+CMakeLists.txt
+Dockerfile
