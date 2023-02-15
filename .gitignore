@@ -1,0 +1,5 @@
+*.tga
+*/Intermediate/*
+*/Bin/*
+*/Debug/*
+*/x64/*
